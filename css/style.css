@@ -24,6 +24,10 @@ body {
 	text-shadow: none;
 }
 
+.no-bullets {
+    list-style-type: none;
+}
+
 .clear {
 	clear: both;
 }
