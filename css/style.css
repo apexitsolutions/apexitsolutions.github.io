@@ -24,7 +24,7 @@ body {
 	text-shadow: none;
 }
 
-.no-bullets {
+ul.no-bullets {
     list-style-type: none;
 }
 
