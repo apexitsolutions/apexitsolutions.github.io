@@ -443,8 +443,13 @@ h1 a.navbar-brand {
 
 section.featured {
 	padding: 200px 0 60px;
-	background-image: url(../img/apex/cover.jpg);
+	width: 100%;
+	background-color: #AEB6BC;
+	background-image: url(../img/apex/feature.jpg);
 	color: #70B9B0;
+	background-repeat: no-repeat;
+  /*background-attachment: fixed;*/
+  background-position: right;
 }
 
 section.featured h2.slogan {
