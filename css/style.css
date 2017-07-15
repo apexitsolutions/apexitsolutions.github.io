@@ -390,7 +390,7 @@ section.section {
 }
 
 .nav>li>a:hover {
-	color: #fff;
+	color: #000;
 	background: none;
 }
 
@@ -401,7 +401,7 @@ section.section {
 }
 
 .navbar .navbar-nav > .active > a {
-	color: #fff;
+	color: #000;
 }
 .navbar .navbar-nav > .active > a {
 	padding-bottom: 22px;
